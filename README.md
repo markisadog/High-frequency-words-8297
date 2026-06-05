@@ -89,6 +89,7 @@ Anki 原始卡牌还包含单词发音和例句发音。由于音频文件数量
 
 - [TSV 完整数据](data/高频单词8297.tsv)：适合文本编辑器、脚本和 Anki 数据整理。
 - [CSV 完整数据](data/high_frequency_words_8297.csv)：适合 Excel、WPS 和其他表格软件。
+- https://github.com/markisadog/High-frequency-words-8297/releases/download/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/frequency.words.8297.apkg
 
 下载仓库：
 
@@ -103,10 +104,6 @@ git clone https://github.com/markisadog/High-frequency-words-8297.git
 | 项目 | 数量 |
 |---|---:|
 | 总记录数 | 8297 |
-| 音标为空 | 201 |
-| 释义为空 | 10 |
-| 例句为空 | 4 |
-| 例句翻译为空 | 39 |
 
 部分短语、专有表达或拼写变体可能无法获得完整音标或例句，欢迎提交 Issue 帮助校对和补充。
 
