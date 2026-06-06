@@ -2,6 +2,10 @@
 
 一套面向中文英语学习者整理的高频词汇资料，共收录 **8297 条单词和短语**。内容以快速理解、结合语境记忆和长期复习为目标，适合导入 Anki，也可以直接在 GitHub 在线查阅。
 
+使用本套卡牌前，请先安装ANKI。https://apps.ankiweb.net/
+
+[单词最新安装包](https://github.com/markisadog/High-frequency-words-8297/releases)
+
 ## 你会学到什么
 
 每条词汇尽量包含：
@@ -92,7 +96,7 @@ Anki 原始卡牌还包含单词发音和例句发音。由于音频文件数量
 
 - [TSV 完整数据](data/高频单词8297.tsv)：适合文本编辑器、脚本和 Anki 数据整理。
 - [CSV 完整数据](data/high_frequency_words_8297.csv)：适合 Excel、WPS 和其他表格软件。
-- https://github.com/markisadog/High-frequency-words-8297/releases/download/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/frequency.words.8297.apkg
+- [APKG 完整数据](https://github.com/markisadog/High-frequency-words-8297/releases/download/frequency/frequency-words-8297.apkg)  ：直接导入ANKI软件使用。
 
 下载仓库：
 
