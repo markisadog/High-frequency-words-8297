@@ -17,6 +17,7 @@ Anki 原始卡牌还包含单词发音和例句发音。由于音频文件数量
 ## 卡牌结构
 
 ### 正面
+<img width="964" height="1056" alt="image" src="https://github.com/user-attachments/assets/5ca1b8c0-0733-4e35-ae14-7d837c149cf0" />
 
 正面用于回忆单词含义，主要显示：
 
@@ -29,6 +30,8 @@ Anki 原始卡牌还包含单词发音和例句发音。由于音频文件数量
 看到单词后，建议先尝试回忆读音、词性和主要含义，再查看答案。
 
 ### 背面
+<img width="964" height="1056" alt="image" src="https://github.com/user-attachments/assets/a6bd226e-ec20-472a-a8e5-9ad87de7635c" />
+<img width="964" height="1146" alt="image" src="https://github.com/user-attachments/assets/2b07488d-46e0-4085-a661-734f45ca12ae" />
 
 背面用于理解和巩固，主要显示：
 
